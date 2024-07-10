@@ -1,0 +1,141 @@
+{
+    "title": "José Manuel Martínez | Portafolio",
+    "description": "Soy Jose Manuel, un apasionado científico de datos",
+    "image": "/avatar.jpg",
+    "avatar": "/avatar.jpg",
+    "name": "José Manuel Martínez Alpañez",
+    "skill": "Data Scientist",
+    "location": "Sevilla, Andalucía, España",
+    "media": {
+        "email": "josemanuelmartinez2002@gmail.com",
+        "cv": "/data/cv.pdf",
+        "github": "https://github.com/joselitom17",
+        "likedin": "https://www.linkedin.com/in/jos%C3%A9-manuel-mart%C3%ADnez-alpa%C3%B1ez-30bb4012b/"
+    },
+    "about": "Presentación",
+    "technologies": [
+        {
+            "icon": "devicon-python-plain",
+            "name": "Python"
+        },
+        {
+            "icon": "devicon-r-plain",
+            "name": "R"
+        },
+        {
+            "icon": "https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000",
+            "name": "TensorFlow"
+        },
+        {
+            "icon": "devicon-pandas-plain",
+            "name": "Pandas"
+        },
+        {
+            "icon": "devicon-numpy-plain",
+            "name": "NumPy"
+        },
+        {
+            "icon": "devicon-jupyter-plain",
+            "name": "Jupyter Notebook"
+        },
+        {
+            "icon": "https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png",
+            "name": "Scikit-learn"
+        },
+        {
+            "icon": "devicon-mysql-plain",
+            "name": "MySQL"
+        },
+        {
+            "icon": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+        },
+        {
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png",
+            "name": "Tableau"
+        },
+        {
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg",
+            "name": "Power BI"
+        },
+        {
+            "icon": "devicon-git-plain",
+            "name": "Git"
+        }
+    ],
+    "experience": [
+        {
+            "icon": "brain-circuit",
+            "title": "Hidral",
+            "subtitle": "Formación en Prácticas",
+            "description": "Realicé un proyecto de automatización de clasificación de correos electrónicos, este proyecto fue realizado durante los meses de práctica, pero además fue optimizado cuando mis conocimientos del campo fueron mayores, es decir, al terminar mi formación.",
+            "date": "Abril 2024 - Mayo 2024"
+        }
+    ],
+    "projects": [
+        {
+            "icon": "bar-chart-4",
+            "title": "Software random",
+            "subtitle": "Software propiedad de Metacortex",
+            "description": "Herramienta para hacer rico a otras personas.",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-django-plain",
+                    "name": "Django"
+                }
+            ],
+            "image": "/project_1.jpg",
+            "url": "https://matrix.fandom.com/wiki/MetaCortex",
+            "github": "https://github.com/thomasanderson"
+        },
+        {
+            "icon": "bug-off",
+            "title": "Hackeo Matrix",
+            "subtitle": "Mi obra maestra",
+            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
+            "technologies": [
+                {
+                    "icon": "devicon-devicon-plain",
+                    "name": "Binario"
+                }
+            ],
+            "image": "/project_2.jpg",
+            "url": "https://matrix.fandom.com/wiki/Wiki",
+            "github": "https://github.com/thomasanderson"
+        }
+    ],
+    "training": [
+        {
+            "icon": "activity",
+            "title": "Máster en Inteligencia Artificial",
+            "subtitle": "Grupo Atrium",
+            "description": "Desarrollé mis habilidades básicas en programación, además de todas las tecnologías más utilizadas en el mercado",
+            "date": "Octubre 2023 - Octubre 2024",
+            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+        }
+    ],
+    "extras": [
+        {
+            "image": "/extra_1.jpg",
+            "title": "The Matrix",
+            "description": "Aparecí en esta película.",
+            "url": "https://en.wikipedia.org/wiki/The_Matrix"
+        },
+        {
+            "image": "/extra_2.jpg",
+            "title": "The Matrix Reloaded",
+            "description": "Y en esta otra.",
+            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
+        },
+        {
+            "image": "/extra_3.jpg",
+            "title": "The Matrix Revolutions",
+            "description": "Y en esta más.",
+            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
+        }
+    ]
+}
